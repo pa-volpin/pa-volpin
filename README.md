@@ -201,11 +201,12 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 15 -->
   <details>
-  <summary>Block 15: React</summary>
+  <summary>Block 15: Automated Tests with React Testing Library</summary>
 
-  > - [ ] 15-1: *Testing React with the React Testing Library*
-  > - [ ] 15-2: *Testing React with the React Testing Library - Part 2*
-  > - [ ] 15-3: *Project - React Tests*
+  > - [x] 15-1: *RTL - First steps*
+  > - [x] 15-2: *RTL - Mocks and Inputs*
+  > - [x] 15-3: *RTL - Testing React Router*
+  > - [x] 15-4: *Project - Tests at React*
 
   </details>
 
