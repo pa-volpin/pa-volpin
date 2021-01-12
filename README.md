@@ -1,10 +1,15 @@
 # I'm Paulo Afonso. Welcome to my portfolio! :octocat:
-#### *a Software Development Student*
+#### *I'm a Software Development Student at Trybe becoming a Full-stack*
 :dart: ***Open to part-time job opportunities***
 
-This repository contains all my personal projects and learning activities from [TRYBE](https://www.betrybe.com/) (an one year course to become a full-stack dev) since I had been started my path to become a focused web developer. Also, you can follow my weekly progress on the full-stack formation at TRYBE section below which details all modules of the program (ps: currently I'm working on the Front-end module).
+##### WHAT YOU WILL FIND
 
- Following on the sequence, there are some curiosities about me, a simple section that lists skills most focused by me daily and a section with others skills that I had already worked with or I keep using in a lower frequency.
+- Personal projects
+- Curiosities about me
+- Developer skills
+- Learning activities from <a href="https://www.betrybe.com/" target="_blank">TRYBE</a>'s' course
+
+***PS:*** At TRYBE section you can follow my weekly progress on the full-stack formation. Click on sections to see the modules! Currently I'm working on the Back-end module.
 
 ##### A LITTLE ABOUT ME
 
@@ -15,13 +20,43 @@ This repository contains all my personal projects and learning activities from [
 
 
 ##### MAIN SKILLS
-<img src="https://camo.githubusercontent.com/9599dc988280bea2ca5c44c4796f13494f9ff3f7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" width="40" height="40" />&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/5712bffd0347cc2744de599dc54473dc1ebbfe82/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" width="40" height="40" />&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/14758df13e2b9c312a5b911d3bb8b7418f7a8c3c/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="40" height="40" />&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/56b1f6fbf125db9037974859c5224cb3d6148178/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="40" height="40" />&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/6d3b6965b71ebb2f6ac981a061d70ace7cddd44f/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67" width="40" height="40" />&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" width="80" height="40" />
+
+<img src="./img/github.svg" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/git.png" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/css.svg" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/html.svg" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/javascript.svg" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/jest.png" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/react.svg" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/rtl.png" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/redux.png" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/sql.svg" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/mysql.svg" width="40" height="40" style="margin: 12px 0"/>
 
 ##### OTHERS
-<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="35" height="40" />&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/2deb907651dfdde793e668cb1c20967b86347f18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32312f4d61746c61625f4c6f676f2e706e672f31303070782d4d61746c61625f4c6f676f2e706e67" width="40" height="40" />&nbsp;&nbsp;&nbsp;<img src="https://cloud.githubusercontent.com/assets/11774614/14919023/151fbe2c-0e27-11e6-8894-dd266301dda3.png" width="40" height="40" />
+<img src="./img/c.svg" width="35" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/fortran.png" width="40" height="40" style="margin: 12px 0" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/vba.svg" width="40" height="40" style="margin: 12px 0"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./img/qtcreator.png" width="40" height="40" style="margin: 12px 0"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./img/matlab.png" width="40" height="40" style="margin: 12px 0"/>
 
 ##### FOLLOW ME ON
-[![linkedIn](https://camo.githubusercontent.com/f2e9a82be49960ef542864b6340446702554f4f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c6169732d67757267656c2f)](https://www.linkedin.com/in/pavolpin/)
+
+<img href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.png" width="160" height="40" style="margin: 12px 0"/>
 
 # TRYBE :rocket:
 
@@ -35,10 +70,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>See more about Introduction Web Development module</summary><br>
   <!-- BLOCK 1 -->
   <details>
-  <summary>Block 1: Introduction - Unix & Shell</summary><br>
+  <summary>Block 1: Unix, Bash and Shell Script</summary><br>
 
   > - [x] 1-3: *Setup*
-  > - [x] 1-3: *Introduction - Fundamentals of Web Development*
+  > - [x] 1-3: *Fundamentals of Web Development*
   > - [x] 1-3: *Introduction - Unix & Shell*
   > - [x] 1-3: *Unix & Bash - Part 1*
   > - [x] 1-4: *Unix & Bash - Part 2*
@@ -47,7 +82,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
   <!-- BLOCK 2 -->
   <details>
-  <summary>Block 2: Git & GitHub</summary><br>
+  <summary>Block 2: Git, GitHub and Internet</summary><br>
 
   > - [x] 2-1: *Git & GitHub - What it is and what it is for*
   > - [x] 2-2: *Git & GitHub - Understanding the commands*
@@ -56,7 +91,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   </details>
   <!-- BLOCK 3 -->
   <details>
-  <summary>Block 3: Introduction - HTML & CSS</summary><br>
+  <summary>Block 3: Introduction to HTML and CSS</summary><br>
 
   > - [x] 3-1: *Introduction - HTML & CSS*
   > - [x] 3-1: *HTML & CSS - Page structures*
@@ -94,12 +129,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 5-7: *(Bonus) Project - Mysterious Card*
 
   </details>
-</details>
 
-<!-- MODULO 2 - FRONT-END -->
-## Front-end Development :pushpin:
-<details>
-  <summary>​See more about Front-end Development module</summary><br>
   <!-- BLOCK 6 -->
   <details>
   <summary>Block 6: Introduction - Front-end</summary><br>
@@ -158,7 +188,12 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 10-4: *Project - Asynchronous Jest and Mocking*
 
   </details>
+</details>
 
+<!-- MODULO 2 - FRONT-END -->
+## Front-end Development :heavy_check_mark:
+<details>
+  <summary>​See more about Front-end Development module</summary><br>
   <!-- BLOCK 11 -->
   <details>
   <summary>Block 11: Introduction - React</summary>
@@ -212,60 +247,60 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   <!-- BLOCK 16 -->
   <details>
-  <summary>Block 16: React</summary>
+  <summary>Block 16: State Management with Redux</summary>
 
-  > - [ ] 16-1: *Introduction to Redux*
-  > - [ ] 16-2: *React with Redux - Part 1*
-  > - [ ] 16-3: *React with Redux - Practice*
-  > - [ ] 16-4: *React with Redux - Part 2*
-  > - [ ] 16-5: *Synchronous tests with React-Redux*
-  > - [ ] 16-6: *Project - Table with data filters*
+  > - [X] 16-1: *Introduction to Redux*
+  > - [X] 16-2: *React with Redux - Part 1*
+  > - [X] 16-3: *React with Redux - Practice*
+  > - [X] 16-4: *React with Redux - Part 2*
+  > - [X] 16-5: *Synchronous tests with React-Redux*
+  > - [X] 16-6: *Project - Table with data filters*
 
   </details>
 
   <!-- BLOCK 17 -->
   <details>
-  <summary>Block 17: React</summary>
+  <summary>Block 17: Project Trivia Game (<a target="_blank" href="https://pa-volpin.github.io/app-trivia/#/">click to navigate</a>)</summary>
 
-  > - [ ] 17-1: *Project - Trivia Game*
+  > - [X] 17-1: *Project - Trivia Game*
 
   </details>
 
   <!-- BLOCK 18 -->
   <details>
-  <summary>Block 18: React & Redux</summary>
+  <summary>Block 18: Context API and React Hooks</summary>
 
-    > - [ ] 18-1: *React Context API*
-    > - [ ] 18-2: *React Hooks - useState and useContext*
-    > - [ ] 18-3: *React Hooks - useEffect and custom Hooks*
-    > - [ ] 18-4: *Project - StarWars Datatable with Context API and Hooks*
+    > - [X] 18-1: *React Context API*
+    > - [X] 18-2: *React Hooks - useState and useContext*
+    > - [X] 18-3: *React Hooks - useEffect and custom Hooks*
+    > - [X] 18-4: *Project - StarWars Datatable with Context API and Hooks*
 
   </details>
 
   <!-- BLOCK 19 -->
   <details>
-  <summary>Block 19: Final Front-end Project</summary>
+  <summary>Block 19: Final Front-end Project (<a target="_blank" href="https://pa-volpin.github.io/app-receitas/#/">click to navigate</a>)</summary>
 
-  > - [ ] 19-1: *Project - Recipe App ​*
+  > - [X] 19-1: *Project - Recipe App ​*
 
   </details>
 ​</details>
 
 <!-- MODULO 3 - BACK-END -->
-## Back-end Development
+## Back-end Development :pushpin:
 <details>
   <summary>​See more about Back-end Development module</summary>
   <!-- BLOCK 20 -->
   <details>
   <summary>Block 20: Introduction - Relational Databases</summary>
 
-  > - [ ] 20-1: *Introduction - Back-end*
-  > - [ ] 20-1: *Introduction - Relational databases*
-  > - [ ] 20-1: *SQL database*
-  > - [ ] 20-2: *Finding data in a database*
-  > - [ ] 20-3: *Filtering data specifically*
-  > - [ ] 20-4: *Manipulating tables*
-  > - [ ] 20-5: *Project - All For One*
+  > - [X] 20-1: *Introduction - Back-end*
+  > - [X] 20-1: *Introduction - Relational databases*
+  > - [X] 20-1: *SQL database*
+  > - [X] 20-2: *Finding data in a database*
+  > - [X] 20-3: *Filtering data specifically*
+  > - [X] 20-4: *Manipulating tables*
+  > - [X] 20-5: *Project - All For One*
 
   </details>
 
@@ -273,10 +308,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 21: Relational Databases</summary>
 
-  > - [ ] 21-1: *Most used functions in SQL
-  > - [ ] 21-2: *Uncomplicating JOINs and UNIONs*
-  > - [ ] 21-3: *Stored Routines & Subqueries*
-  > - [ ] 21-4: *Project - Vocabulary Booster*
+  > - [X] 21-1: *Most used functions in SQL
+  > - [X] 21-2: *Uncomplicating JOINs and UNIONs*
+  > - [X] 21-3: *Stored Routines & Subqueries*
+  > - [X] 21-4: *Project - Vocabulary Booster*
 
   </details>
 
@@ -284,10 +319,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 22: Relational Databases</summary>
 
-  > - [ ] 22-1: *Transforming ideas into a database model*
-  > - [ ] 22-2: *Normalization, Normal Shapes and Dumps*
-  > - [ ] 22-3: *Transforming ideas into a database model - Part 2*
-  > - [ ] 21-4: *Project - One For All*
+  > - [X] 22-1: *Transforming ideas into a database model*
+  > - [X] 22-2: *Normalization, Normal Shapes and Dumps*
+  > - [X] 22-3: *Transforming ideas into a database model - Part 2*
+  > - [X] 21-4: *Project - One For All*
 
   </details>
 
