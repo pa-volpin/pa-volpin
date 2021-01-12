@@ -63,7 +63,7 @@
 <img href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
 
 
-</br></br>
+</br>
 # TRYBE :rocket: - My jouney to become a full-stack dev
 
 *Trybe is a school of the future that was founded with the purpose of generating significant opportunities for anyone who wants to improve their lives and build a successful career in technology. Assuming a genuine commitment to people, at Trybe they only start paying when they get a good job.*
