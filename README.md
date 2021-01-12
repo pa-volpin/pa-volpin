@@ -21,31 +21,31 @@
 
 ##### MAIN SKILLS
 <div>
-<img src="./img/github.svg" width="40" height="40" style="margin: 10px" />
-<img src="./img/git.png" width="40" height="40" style="margin: 10px" />
-<img src="./img/css.svg" width="40" height="40" style="margin: 10px" />
-<img src="./img/html.svg" width="40" height="40" style="margin: 10px" />
-<img src="./img/javascript.svg" width="40" height="40" style="margin: 10px" />
-<img src="./img/jest.png" width="40" height="40" style="margin: 10px" />
-<img src="./img/react.svg" width="40" height="40" style="margin: 10px" />
-<img src="./img/rtl.png" width="40" height="40" style="margin: 10px" />
-<img src="./img/redux.png" width="40" height="40" style="margin: 10px" />
-<img src="./img/sql.svg" width="40" height="40" style="margin: 10px" />
-<img src="./img/mysql.svg" width="40" height="40" style="margin: 10px"/>
+<img src="./img/github.svg" width="40" height="40" style="margin: 30px" />
+<img src="./img/git.png" width="40" height="40" style="margin: 30px" />
+<img src="./img/css.svg" width="40" height="40" style="margin: 30px" />
+<img src="./img/html.svg" width="40" height="40" style="margin: 30px" />
+<img src="./img/javascript.svg" width="40" height="40" style="margin: 30px" />
+<img src="./img/jest.png" width="40" height="40" style="margin: 30px" />
+<img src="./img/react.svg" width="40" height="40" style="margin: 30px" />
+<img src="./img/rtl.png" width="40" height="40" style="margin: 30px" />
+<img src="./img/redux.png" width="40" height="40" style="margin: 30px" />
+<img src="./img/sql.svg" width="40" height="40" style="margin: 30px" />
+<img src="./img/mysql.svg" width="40" height="40" style="margin: 30px"/>
 </div>
 
 ##### OTHERS
 <div>
-<img src="./img/c.svg" width="35" height="40" style="margin: 10px" />
-<img src="./img/vba.svg" width="40" height="40" style="margin: 10px"/>
-<img src="./img/qtcreator.png" width="40" height="40" style="margin: 10px"/>
-<img src="./img/matlab.png" width="40" height="40" style="margin: 10px"/>
-<img src="./img/fortran.png" width="40" height="40" style="margin: 10px" />
+<img src="./img/c.svg" width="35" height="40" style="margin: 30px" />
+<img src="./img/vba.svg" width="40" height="40" style="margin: 30px"/>
+<img src="./img/qtcreator.png" width="40" height="40" style="margin: 30px"/>
+<img src="./img/matlab.png" width="40" height="40" style="margin: 30px"/>
+<img src="./img/fortran.png" width="40" height="40" style="margin: 30px" />
 </div>
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
+<img href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 30px"/>
 
 # TRYBE :rocket:
 
