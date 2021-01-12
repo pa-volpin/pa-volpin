@@ -21,6 +21,7 @@
 
 ##### MAIN SKILLS
 
+<div>
 <img src="./img/github.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/git.png" width="40" height="40" style="margin: 10px" />
@@ -42,8 +43,10 @@
 <img src="./img/sql.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/mysql.svg" width="40" height="40" style="margin: 10px"/>
+</div>
 
 ##### OTHERS
+<div>
 <img src="./img/c.svg" width="35" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/vba.svg" width="40" height="40" style="margin: 10px"/>
@@ -53,6 +56,7 @@
 <img src="./img/matlab.png" width="40" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./img/fortran.png" width="40" height="40" style="margin: 10px" />
+</div>
 
 ##### FOLLOW ME ON
 
