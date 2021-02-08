@@ -1,7 +1,5 @@
 # I'm Paulo Afonso. Welcome to my portfolio! :octocat:
 #### :dart: *I'm a Software Development Student at Trybe becoming a Full-stack*
-:dart: ***Open to part-time job opportunities***
-
 ##### WHAT YOU WILL FIND
 
 - Personal projects
@@ -60,7 +58,7 @@
 
 ##### FOLLOW ME ON
 
-<a href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
+<a href="https://www.linkedin.com/in/pavolpin/" target="_blank"><img src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/></a>
 
 </br></br>
 # TRYBE :rocket: - My jouney to become a full-stack dev
