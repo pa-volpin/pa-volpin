@@ -1,5 +1,5 @@
 # I'm Paulo Afonso. Welcome to my portfolio! :octocat:
-#### *I'm a Software Development Student at Trybe becoming a Full-stack*
+#### :dart: *I'm a Software Development Student at Trybe becoming a Full-stack*
 :dart: ***Open to part-time job opportunities***
 
 ##### WHAT YOU WILL FIND
@@ -60,7 +60,7 @@
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
+<a href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
 
 </br></br>
 # TRYBE :rocket: - My jouney to become a full-stack dev
@@ -335,10 +335,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 23: Introduction - NoSQL</summary>
 
-  > - [ ] 23-1: *Introduction - NoSQL*
-  > - [ ] 23-2: *MongoDB - Introduction*
-  > - [ ] 23-3: *Filter Operators*
-  > - [ ] 23-4: *Project - Data Flights*
+  > - [X] 23-1: *Introduction - NoSQL*
+  > - [X] 23-2: *MongoDB - Introduction*
+  > - [X] 23-3: *Filter Operators*
+  > - [X] 23-4: *Project - Data Flights*
 
   </details>
 
@@ -346,10 +346,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 24: Updates</summary>
 
-  > - [ ] 24-1: *Simple Updates*
-  > - [ ] 24-2: *Complex Updates - Arrays - Part 1*
-  > - [ ] 24-3: *Complex Updates - Arrays - Part 2*
-  > - [ ] 24-4: *Project - Commerce*
+  > - [X] 24-1: *Simple Updates*
+  > - [X] 24-2: *Complex Updates - Arrays - Part 1*
+  > - [X] 24-3: *Complex Updates - Arrays - Part 2*
+  > - [X] 24-4: *Project - Commerce*
 
   </details>
 
@@ -357,9 +357,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 25: Aggregation Framework</summary>
 
-  > - [ ] 25-1: *Aggregation Framework - Part 1*
-  > - [ ] 25-2: *Aggregation Framework - Part 2*
-  > - [ ] 24-3: *Project - Aggregations*
+  > - [X] 25-1: *Aggregation Framework - Part 1*
+  > - [X] 25-2: *Aggregation Framework - Part 2*
+  > - [X] 24-3: *Project - Aggregations*
 
   </details>
 
@@ -367,11 +367,11 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 26: NodeJS</summary>
 
-  > - [ ] 26-1: *What It Is - NodeJS*
-  > - [ ] 26-1: *NodeJS - Introduction*
-  > - [ ] 26-2: *NodeJS - Asynchronous Flow*
-  > - [ ] 26-3: *NodeJS - Architecture*
-  > - [ ] 26-4: *Express: HTTP with Node.js*
+  > - [X] 26-1: *What It Is - NodeJS*
+  > - [X] 26-1: *NodeJS - Introduction*
+  > - [X] 26-2: *NodeJS - Asynchronous Flow*
+  > - [X] 26-3: *NodeJS - Architecture*
+  > - [X] 26-4: *Express: HTTP with Node.js*
   > - [ ] 26-5: *Practicing Express*
   > - [ ] 26-6: *Software Architecture - Introduction to MVC*
   > - [ ] 26-7: *Project - Cookmaster*
