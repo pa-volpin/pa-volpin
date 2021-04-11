@@ -370,9 +370,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [X] 26-2: *NodeJS - Asynchronous Flow*
   > - [X] 26-3: *NodeJS - Architecture*
   > - [X] 26-4: *Express: HTTP with Node.js*
-  > - [ ] 26-5: *Practicing Express*
-  > - [ ] 26-6: *Software Architecture - Introduction to MVC*
-  > - [ ] 26-7: *Project - Cookmaster*
+  > - [X] 26-5: *Practicing Express*
+  > - [X] 26-6: *Software Architecture - Introduction to MVC*
+  > - [X] 26-7: *Project - Cookmaster*
 
   </details>
 
@@ -380,9 +380,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 27: Software Architecture</summary>
 
-  > - [ ] 27-1: *Software Architecture - Service Layer*
-  > - [ ] 27-2: *Web Architecture - Rest & Restful*
-  > - [ ] 27-3: *Project - Store Manager*
+  > - [X] 27-1: *Software Architecture - Service Layer*
+  > - [X] 27-2: *Web Architecture - Rest & Restful*
+  > - [X] 27-3: *Project - Store Manager*
 
   </details>
 
@@ -390,9 +390,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 28: Node - JSON Web Token</summary>
 
-  > - [ ] 28-1: *NodeJS - JWT - (JSON Web Token)*
-  > - [ ] 28-2: *NodeJS - Upload files with Multer*
-  > - [ ] 28-3: *Project - Cookmaster version 2 ​*
+  > - [X] 28-1: *NodeJS - JWT - (JSON Web Token)*
+  > - [X] 28-2: *NodeJS - Upload files with Multer*
+  > - [X] 28-3: *Project - Cookmaster version 2 ​*
 
   </details>
 
@@ -400,10 +400,10 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 29: Introduction - Deploy</summary>
 
-  > - [ ] 29-1: *Introduction - Deploy*
-  > - [ ] 29-1: *Infrastructure - Deploy with Heroku*
-  > - [ ] 29-2: *Deploy - Process Managers*
-  > - [ ] 29-3: *Project - Stranger Things*
+  > - [X] 29-1: *Introduction - Deploy*
+  > - [X] 29-1: *Infrastructure - Deploy with Heroku*
+  > - [X] 29-2: *Deploy - Process Managers*
+  > - [X] 29-3: *Project - Stranger Things*
 
   </details>
 
@@ -411,7 +411,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 30: Project - Trybeer</summary>
 
-    > - [ ] 30-1: *Project - Trybeer*
+    > - [X] 30-1: *Project - Trybeer*
 
   </details>
 
@@ -419,11 +419,11 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 31: Architecture and Tests</summary>
 
-  > - [ ] 31-1: *Architecture - SOLID Principles*
-  > - [ ] 31-2: *ORM - Interface between application and database*
-  > - [ ] 31-3: *Software Architecture - DDD*
-  > - [ ] 31-4: *Good practices writing tests*
-  > - [ ] 31-5: *Project - Blogs API*
+  > - [x] 31-1: *Architecture - SOLID Principles*
+  > - [x] 31-2: *ORM - Interface between application and database*
+  > - [x] 31-3: *Software Architecture - DDD*
+  > - [x] 31-4: *Good practices writing tests*
+  > - [x] 31-5: *Project - Blogs API*
 
   </details>
 
