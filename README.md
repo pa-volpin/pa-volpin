@@ -1,5 +1,5 @@
 # I'm Paulo Afonso. Welcome to my portfolio! :octocat:
-#### :dart: *I'm a Software Development Student at Trybe becoming a Full-stack*
+#### :dart: *I'm a Full-stack developer and student at Trybe*
 ##### WHAT YOU WILL FIND
 
 - Personal projects
@@ -16,49 +16,76 @@
 - :recycle: Always learning, running and petting my pets
 - :mortar_board: Aeronautical engineer by formation
 
+##### LANGUAGES
+<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<img src="./img/javascript.png" width="" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/typescript.png" width="" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/fortran.png" width="" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/vba.svg" width="" height="40" style="margin: 10px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./img/cpp.png" width="" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/matlab.png" width="" height="40" style="margin: 10px"/>
+&nbsp;&nbsp;&nbsp;
+</div>
 
-##### MAIN SKILLS
+##### FRONT-END
 
-<div>
-<img src="./img/github.svg" width="40" height="40" style="margin: 10px" />
+<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<img src="./img/css.svg" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/git.png" width="40" height="40" style="margin: 10px" />
+<img src="./img/html.svg" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/css.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/tailwind.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/html.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/react.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/javascript.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/redux-saga.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/jest.png" width="40" height="40" style="margin: 10px" />
+</div>
+
+##### TESTS
+
+<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<img src="./img/jest.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/react.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/rtl.png" width="" height="40" style="margin: 10px" />
+</div>
+
+##### BACK-END
+
+<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<img src="./img/node.png" width="" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./img/rtl.png" width="40" height="40" style="margin: 10px" />
+<img src="./img/express.png" width="" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./img/redux.png" width="40" height="40" style="margin: 10px" />
+<img src="./img/mysql.png" width="" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./img/sql.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/sequelize.png" width="" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./img/mysql.svg" width="40" height="40" style="margin: 10px"/>
+<img src="./img/mongodb.png" width="" height="40" style="margin: 10px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./img/mongoose.png" width="" height="40" style="margin: 10px"/>
+&nbsp;&nbsp;&nbsp;
 </div>
 
 ##### OTHERS
-<div>
-<img src="./img/c.svg" width="35" height="40" style="margin: 10px" />
+<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<img src="./img/github.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/vba.svg" width="40" height="40" style="margin: 10px"/>
+<img src="./img/git.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/qtcreator.png" width="40" height="40" style="margin: 10px"/>
+<img src="./img/qtcreator.png" width="" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./img/matlab.png" width="40" height="40" style="margin: 10px"/>
-&nbsp;&nbsp;&nbsp;
-<img src="./img/fortran.png" width="40" height="40" style="margin: 10px" />
+<img src="./img/wordpress.png" width="" height="40" style="margin: 10px"/>
 </div>
 
 ##### FOLLOW ME ON
 
-<a href="https://www.linkedin.com/in/pavolpin/" target="_blank"><img src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/></a>
+<a href="https://www.linkedin.com/in/pavolpin/" target="_blank"><img src="./img/linkedin.png" width="120" height="35" style="margin: 10px"/></a>
 
 </br></br>
 # TRYBE :rocket: - My jouney to become a full-stack dev
