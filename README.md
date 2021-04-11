@@ -17,7 +17,7 @@
 - :mortar_board: Aeronautical engineer by formation
 
 ##### LANGUAGES
-<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<div class="bg-gray" style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
 <img src="./img/javascript.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/typescript.png" width="" height="40" style="margin: 10px" />
@@ -34,7 +34,7 @@
 
 ##### FRONT-END
 
-<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<div class="bg-gray" style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
 <img src="./img/css.svg" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/html.svg" width="" height="40" style="margin: 10px" />
@@ -49,7 +49,7 @@
 
 ##### TESTS
 
-<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<div class="bg-gray" style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
 <img src="./img/jest.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/rtl.png" width="" height="40" style="margin: 10px" />
@@ -57,7 +57,7 @@
 
 ##### BACK-END
 
-<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<div class="bg-gray" style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
 <img src="./img/node.png" width="" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./img/express.png" width="" height="40" style="margin: 10px"/>
@@ -73,7 +73,7 @@
 </div>
 
 ##### OTHERS
-<div style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
+<div class="bg-gray" style="background-color: rgb(229, 231, 235); border-radius: 20px; padding: 5px">
 <img src="./img/github.png" width="" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/git.png" width="" height="40" style="margin: 10px" />
