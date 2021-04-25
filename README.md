@@ -458,9 +458,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 32: Sockets</summary>
 
-  > - [ ] 32-1: *Sockets - TCP/UDP & NET*
-  > - [ ] 32-2: *Sockets - Socket.io*
-  > - [ ] 32-3: *Project - Webchat*
+  > - [X] 32-1: *Sockets - TCP/UDP & NET*
+  > - [X] 32-2: *Sockets - Socket.io*
+  > - [X] 32-3: *Project - Webchat*
 
   </details>
 
@@ -468,7 +468,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 33: Project - Trybeer v2</summary>
 
-  > - [ ] 33-1: *Project - Trybeer v2*
+  > - [X] 33-1: *Project - Trybeer v2*
 
   </details>
 </details>
