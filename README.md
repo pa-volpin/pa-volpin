@@ -317,7 +317,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 ​</details>
 
 <!-- MODULO 3 - BACK-END -->
-## Back-end Development :pushpin:
+## Back-end Development :heavy_check_mark:
 <details>
   <summary>​See more about Back-end Development module</summary>
   <!-- BLOCK 20 -->
@@ -474,7 +474,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 </details>
 
 <!-- MODULO 4 - COMPUTER SCIENCE -->
-## ​Computer Science
+## ​Computer Science :pushpin:
 <details>
   <summary>See more about ​Computer Science module</summary>
   <!-- BLOCK 34 -->
